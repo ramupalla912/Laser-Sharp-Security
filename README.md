@@ -1,3 +1,9 @@
+### Prototype Overview:
+
+![main_prototype](https://github.com/user-attachments/assets/9902dd33-5d2e-424d-831e-78597f2578a8)
+
+
+
 # Source Code For Laser-Sharp-Security(C lanuage)
     #include <LiquidCrystal_I2C.h>
     LiquidCrystal_I2C lcd(0x27, 16, 2);
